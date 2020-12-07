@@ -38,3 +38,11 @@ Trebali bi sada imati ovakvu sliku bez ova dva fajla, da bi kreirali novi fajl o
 <img src="slike/Screenshot 2020-12-06 181709.png">
 
 Sada prelazimo u notebook kako bi mogli raditi, svi ostali primjeri će biti u notebook, nazvanim po alatima (numpy.ipynb, pandas.ipynb, matplotlib.ipynb)
+
+Kroz instalacione procese sve tri biblioteke smo prošli, ono što sada slijedi je pandas, koji se najčešće koristi kod čišćenja podataka i modeliranja data setova, razlog tome je njegova fleksibilnost, te njegova jednostavnost. 
+
+Često sam dobijao pitanje pa zašto ne koristiš Excel za čišćenje podataka? Oni koji nisu toliko upućeni i nemaju širok pogled na sve stvari, Excel je jako spor što se tiče čišćenja podataka i ograničen je sa brojem redova koji može da čuva u jednom fajlu. Mislim da je oko 16 miliona redova maksimalni kapacitet, ali nemojte me držati za riječ.
+
+Neko bi rekao da je 16 miliona unosa mnogo, ali kada živite u svijetu gdje je krenula revolucija u smislu prikupljanja podataka gdje se na svakom koraku u vašem pregledniku prikupljaju podaci uz tzv. kolačiće, a sve u smislu kako bi vam servirali prilagođen oglašivački program.
+
+Ali dosta priče, hajmo mi krenuti na pandas, u ovoj sekciji ću ući malo dublje i u Python, kako bih vam malo približio objektno orijentisano programiranje, te njegov značaj kada čistimo podatke.
