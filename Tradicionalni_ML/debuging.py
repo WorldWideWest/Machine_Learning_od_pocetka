@@ -3,7 +3,7 @@ import numpy as np
 
 from linearnaRegresija import SimpleLinearRegression
 
-data = pd.read_excel("dataSet/cars-simple-reg.xlsx")
+data = pd.read_excel("dataSet/testing.xlsx")
 
 parsing = SimpleLinearRegression(data)
 parsing.Fit()
